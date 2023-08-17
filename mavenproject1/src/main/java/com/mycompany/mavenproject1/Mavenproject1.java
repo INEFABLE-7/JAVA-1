@@ -32,6 +32,8 @@ public class Mavenproject1 {
         System.out.println("el resultado de la multiplicacion de:"+num1+" y "+num2+" es de: "+multiplicacion);
         System.out.println("el resultado de la divicion de:"+num1+" y "+num2+" es de: "+divición);
         
+        System.out.println("#########GRACIAS POR SU VISITA#######");
+        System.out.println("#########SIUUU#######");
         
 }
 }
