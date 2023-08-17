@@ -25,9 +25,12 @@ public class Mavenproject1 {
         int num2 = sc.nextInt();
         int suma=(num1+num2);
         int resta=(num1-num2);
-        System.out.println("el resultado de la suma de:"+num1+" mas "+num2+" es de: "+suma);
-        System.out.println("el resultado de la resta de:"+num1+" mas "+num2+" es de: "+resta);
-        
+        int multiplicacion=(num1*num2);
+        int divición=(num1/num2);
+        System.out.println("el resultado de la suma de:"+num1+" y "+num2+" es de: "+suma);
+        System.out.println("el resultado de la resta de:"+num1+" y "+num2+" es de: "+resta);
+        System.out.println("el resultado de la multiplicacion de:"+num1+" y "+num2+" es de: "+multiplicacion);
+        System.out.println("el resultado de la divicion de:"+num1+" y "+num2+" es de: "+divición);
         
         
 }
