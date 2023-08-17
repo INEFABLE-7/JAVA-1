@@ -4,6 +4,8 @@
 
 package com.mycompany.mavenproject1;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Alumno
@@ -11,6 +13,13 @@ package com.mycompany.mavenproject1;
 public class Mavenproject1 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
+       Scanner sc = new Scanner(System.in);
+        System.out.println("INGRESE EL PRIMER NUMERO");
+        int num1=sc.nextInt();
+        System.out.println("INGRSE EL SEGUNDO NUMERO");
+        int num2 = sc.nextInt();
+        
+        
+        
+}
 }
